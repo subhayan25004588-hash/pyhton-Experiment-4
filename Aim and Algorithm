@@ -1,1 +1,17 @@
+Aim : To permorm  multiple list operations
+
+Algorithm: List Operations
+
+1. START
+2. Input the size of the list and create an empty list.
+3. Read alphabets from the user and add them to the list.
+4. Display the list and its total number of elements.
+5. Create and display a copy of the list.
+6. Add `m`, `n`, and `o` to the list using `extend()`.
+7. Display the first and last elements using indexing.
+8. Input an element and remove it if it exists in the list.
+9. Sort the list and display it.
+10. Reverse the sorted list and display it.
+11. Remove the last element using `pop()` and display the list.
+12. STOP
 
